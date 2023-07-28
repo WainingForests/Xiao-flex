@@ -70,3 +70,5 @@ Thumbs
 	C6
 	GND
 	LED+
+
+Access to all work is under Copyright from Marshall Somerville 2023 CC BY-NC-SA 4.0
