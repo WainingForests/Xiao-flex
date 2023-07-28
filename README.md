@@ -1,6 +1,7 @@
 # Xiao-flex
 Xiao nRF52840 breakout board with JST and FPC connections for easy building.
 
+PCB project files are for EasyEDA - Standard. Simply install, and import the Schematic and PCB files.
 
 Dimensions
 H33.4mm x W39.4mm
