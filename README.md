@@ -24,7 +24,7 @@ The switch toggles from 5v with shift register data, to no contact (half switch 
 
 Thumb row selection is done via a 2.54mm jumper. Unconnected will leave the Row pad disconnected. 
 
-![alt text](https://github.com/WainingForests/Xiao-flex/blob/main/Images/Xiao-Flex diagram.png?raw=true)
+![alt text](https://github.com/WainingForests/Xiao-flex/blob/main/Images/Xiao-Flex-diagram.png?raw=true)
 
 V1.1 - Poly fuse added to GND side. Added through holes for regulated (switch) LED power and LED data.
 V1.2 - Added through holes for 1.10 1.00 and 0.16 for SPI / I2C / more columns or rows if wanted!
