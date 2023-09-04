@@ -1,4 +1,4 @@
-![alt text](https://github.com/WainingForests/Xiao-flex/blob/main/Images/_DSC1255.JPG?raw=false)
+![alt text](https://github.com/WainingForests/Xiao-flex/blob/main/Images/_DSC1281.JPG?raw=true)
 # Xiao-flex
 Xiao nRF52840 breakout board with JST and FPC connections for easy building.
 
